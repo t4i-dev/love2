@@ -9,6 +9,8 @@ body {
 
 .container {
   position: relative;
+  top: 200px; /* Điều chỉnh vị trí theo chiều dọc */
+  left: 100px;
 }
 .valentines {
   position: relative;
@@ -342,8 +344,8 @@ body {
   width: 220px;
   margin-left: 220px;
   position: relative;
-  top: 150px; /* Điều chỉnh vị trí theo chiều dọc */
-  left: 50px;
+  top: -250px; /* Điều chỉnh vị trí theo chiều dọc */
+  left: 150px;
 }
 
 
@@ -495,8 +497,8 @@ body {
   width: 220px;
   margin-left: 220px;
   position: relative;
-  top: -120px; /* Điều chỉnh vị trí theo chiều dọc */
-  left: -400px;
+  top: -200px; /* Điều chỉnh vị trí theo chiều dọc */
+  left: -700px;
 }
 
 
